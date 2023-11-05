@@ -1,0 +1,42 @@
+64-bit x86
+bare-metal clusters
+bare-metal compute
+bare-metal configuration
+bare-metal control
+bare-metal environment
+bare-metal equipment
+bare-metal event
+bare-metal hardware
+bare-metal host
+bare-metal infrastructure
+bare-metal installation
+bare-metal installer
+bare-metal machine
+bare-metal media
+bare-metal node
+bare-metal provisioning
+bare-metal server
+bare-metal worker
+by
+by using
+from
+information about
+on
+see this section
+segmentation fault
+shell prompt
+shell script
+something against which something else
+something at which something else
+something for which something else
+something from which something else
+something in which somehing else
+something of which something else
+something on which something else
+something to which something else
+something with which something else
+something without which something else
+this clause, which is nonrestrictive
+through
+x86_64
+

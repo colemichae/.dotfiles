@@ -1,0 +1,10 @@
+.bashrc ~/.bashrc
+Downloads ~/storage/shared/Downloads
+golang ~/projects/golang
+home ~
+init.vim ~/.config/nvim/init.vim
+php ~/projects/php
+python ~/projects/python
+rust ~/projects/rust
+stdlibexamples ~/projects/python/stdlibexamples
+

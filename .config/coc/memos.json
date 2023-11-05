@@ -1,0 +1,1127 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.3-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.3-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": ""
+      },
+      "expiry": 1684160625250
+    },
+    "/usr/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "34bc3437a08224325b11275e657d5f0d690a8c8110878aefaf7f73906f3a3b6c77d0b497ad720c0e4408bc0c30a2431edb216266184d71e4c0662f51cf4411f8"
+      },
+      "expiry": 1683973170253
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.6-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "d9f0f16dfc33a55851335f09f9c94bb13f0f4e7e3c5cd39128da78fd035d84345547292d2612573990f037ddbaf6ff5f3e0137067c0285457af374c4613e2081"
+      },
+      "expiry": 1683973170483
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "7df50fd1039e544be86a1d5c49c035f80b9cd5fa349948d61d9ec3846399b5daaf8ce6a38bbac255ac9ce6fdb33c3fe46aacea44b6707eef4b0fe835c4a4ca17",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.6 64-bit",
+        "hash": "d9f0f16dfc33a55851335f09f9c94bb13f0f4e7e3c5cd39128da78fd035d84345547292d2612573990f037ddbaf6ff5f3e0137067c0285457af374c4613e2081-f747b2a365052f4aaa4824b5d8452d90"
+      },
+      "expiry": 1681703941651
+    },
+    "/usr/bin/python3.11.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.3 64-bit",
+        "hash": "-2452e63d33a6563287c8c966ff8cf48e"
+      },
+      "expiry": 1684160625287
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d9f0f16dfc33a55851335f09f9c94bb13f0f4e7e3c5cd39128da78fd035d84345547292d2612573990f037ddbaf6ff5f3e0137067c0285457af374c4613e2081",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.6-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "d9f0f16dfc33a55851335f09f9c94bb13f0f4e7e3c5cd39128da78fd035d84345547292d2612573990f037ddbaf6ff5f3e0137067c0285457af374c4613e2081",
+          "type": "Unknown",
+          "displayName": "Python 3.10.6 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1681703941569
+    },
+    "/usr/bin/python3.11.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3.11",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.0-candidate",
+            "major": 3,
+            "minor": 11,
+            "patch": 0,
+            "prerelease": [
+              "candidate"
+            ],
+            "build": [],
+            "version": "3.11.0-candidate"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "88e79df969f3b3abc2e57484370b76130d98c50deadf84e8e13d1c6fee5f140ddc79cf5e351620bf50fef99a2006a8798eaa90bb5d6267404b77d897040eb890",
+          "type": "Unknown",
+          "cachedEntry": true,
+          "displayName": "Python 3.11.0 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1684160625243
+    },
+    "ProposeLSBanner": false,
+    "/data/data/com.termux/files/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f"
+      },
+      "expiry": 1699082984676
+    },
+    "/data/data/com.termux/files/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f"
+      },
+      "expiry": 1699082984671
+    },
+    "/data/data/com.termux/files/usr/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/usr/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.6-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.6-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/usr",
+        "fileHash": "7df50fd1039e544be86a1d5c49c035f80b9cd5fa349948d61d9ec3846399b5daaf8ce6a38bbac255ac9ce6fdb33c3fe46aacea44b6707eef4b0fe835c4a4ca17"
+      },
+      "expiry": 1699082984664
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "/data/data/com.termux/files/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+        "info": {
+          "architecture": 3,
+          "path": "/data/data/com.termux/files/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.6-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.6-final"
+          },
+          "sysPrefix": "/data/data/com.termux/files/usr",
+          "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+          "type": "Unknown",
+          "displayName": "Python 3.11.6 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1699082985127
+    },
+    "/data/data/com.termux/files/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.6 64-bit",
+        "hash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f-34d1daf606072625fff163c1acc292de"
+      },
+      "expiry": 1699082985593
+    },
+    "GLOBAL_DIAGNOSTICS_FILTER": [
+      "LSNotSupportedDiagnostic"
+    ],
+    "/data/data/com.termux/files/home/projects/python/stdlibexamples/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/home/projects/python/stdlibexamples/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.3-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.3-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/home/projects/python/stdlibexamples",
+        "fileHash": "81d34fba04239899c552b3c8ec40e2f37452e867089fee6c88feb2fbe115235295889a0025a4f4660152ffda772514801a85afba5badf3041d9b2d080d3bd40a"
+      },
+      "expiry": 1684569054877
+    },
+    "/data/data/com.termux/files/home/projects/python/stdlibexamples/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/data/data/com.termux/files/home/projects/python/stdlibexamples/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.3-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.3-final"
+        },
+        "sysPrefix": "/data/data/com.termux/files/home/projects/python/stdlibexamples",
+        "fileHash": "81d34fba04239899c552b3c8ec40e2f37452e867089fee6c88feb2fbe115235295889a0025a4f4660152ffda772514801a85afba5badf3041d9b2d080d3bd40a"
+      },
+      "expiry": 1684569054936
+    },
+    "/data/data/com.termux/files/home/projects/python/stdlibexamples/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "81d34fba04239899c552b3c8ec40e2f37452e867089fee6c88feb2fbe115235295889a0025a4f4660152ffda772514801a85afba5badf3041d9b2d080d3bd40a",
+        "info": {
+          "architecture": 3,
+          "path": "/data/data/com.termux/files/home/projects/python/stdlibexamples/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.3-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.3-final"
+          },
+          "sysPrefix": "/data/data/com.termux/files/home/projects/python/stdlibexamples",
+          "fileHash": "81d34fba04239899c552b3c8ec40e2f37452e867089fee6c88feb2fbe115235295889a0025a4f4660152ffda772514801a85afba5badf3041d9b2d080d3bd40a",
+          "type": "Unknown",
+          "displayName": "Python 3.11.3 64-bit"
+        }
+      },
+      "expiry": 1684570511213
+    },
+    "/data/data/com.termux/files/home/projects/python/stdlibexamples/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.3 64-bit",
+        "hash": "81d34fba04239899c552b3c8ec40e2f37452e867089fee6c88feb2fbe115235295889a0025a4f4660152ffda772514801a85afba5badf3041d9b2d080d3bd40a-0062b9f241dd5252a1232ebe4ffdbe8c"
+      },
+      "expiry": 1684570511151
+    }
+  },
+  "coc-python|/root/.local/share/nvim/plugged/coc.nvim": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:565f895f54093a4fcb96a4aa47f73d6a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:565f895f54093a4fcb96a4aa47f73d6a": []
+  },
+  "coc-python|/root": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2de50c80082698628026c30c552f8a0f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2de50c80082698628026c30c552f8a0f": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/python": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.3-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.3-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "d9b8d4d4ab9e516fb83e8f6a3fd6613297e4031d28b654bb361e551a39d5c87d2db9dfecae393f854659785185e105b683467d37025d80bee06ea679a89be544",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.11.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python/stdlibexamples": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d926a706a3f5ed70e928c281f03420cf": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d926a706a3f5ed70e928c281f03420cf": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/data/data/com.termux/files/usr/bin/python"
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/golang/book": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python/lotto": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fa1431ef0c27b6067ef24c4e7383b68a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fa1431ef0c27b6067ef24c4e7383b68a": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/python/lotto": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.3-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.3-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "d9b8d4d4ab9e516fb83e8f6a3fd6613297e4031d28b654bb361e551a39d5c87d2db9dfecae393f854659785185e105b683467d37025d80bee06ea679a89be544",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.11.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/.config/dooit": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7e06b0af1e99a1a72d3184ecd35fb452": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7e06b0af1e99a1a72d3184ecd35fb452": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/.config/dooit": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "23e0f77433a84d310aeef8abb6cb5b0a54c4c76022a6638f5fcfb5b6ceedda3230b003081d71609963d77be4462549cf1af7b6da84816f1331a80d6a7bd4b5c1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python/redis": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c147234a6e32f13cee112b084995be3c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c147234a6e32f13cee112b084995be3c": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/python/redis": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "23e0f77433a84d310aeef8abb6cb5b0a54c4c76022a6638f5fcfb5b6ceedda3230b003081d71609963d77be4462549cf1af7b6da84816f1331a80d6a7bd4b5c1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python/icecream": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1dc316bff43bd9b10ca2c71bd93115de": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1dc316bff43bd9b10ca2c71bd93115de": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/python/icecream": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "23e0f77433a84d310aeef8abb6cb5b0a54c4c76022a6638f5fcfb5b6ceedda3230b003081d71609963d77be4462549cf1af7b6da84816f1331a80d6a7bd4b5c1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python/icecream_test": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:4cac22d68b0b222cc65bfb1ab0644139": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:4cac22d68b0b222cc65bfb1ab0644139": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/python/icecream_test": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python/schedmatrix": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1193cc960c5ca8af628f3a46335774c2": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1193cc960c5ca8af628f3a46335774c2": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/python/schedmatrix": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/asciidoc/html": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e8b5a335a34238154ab6bfb9f00fac02": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e8b5a335a34238154ab6bfb9f00fac02": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/asciidoc/html": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/asciidoc/asc2wp-Asciidoc-to-Wordpress": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:19301a8358076302673724e35269b7d6": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:19301a8358076302673724e35269b7d6": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/asciidoc/asc2wp-Asciidoc-to-Wordpress": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:fdd76de75da678f0e319f87ebfcfc672": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fdd76de75da678f0e319f87ebfcfc672": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python/quaeso": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2020227ed7aa071b5f0326a4dedc1f65": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2020227ed7aa071b5f0326a4dedc1f65": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/python/quaeso": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/asciidoc/asc2wp-Asciidoc-to-Wordpress-python3": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fdd76de75da678f0e319f87ebfcfc672": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fdd76de75da678f0e319f87ebfcfc672": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/asciidoc/asc2wp-Asciidoc-to-Wordpress-python3": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:52da319af5133c4cac86a002442e8cdd": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:52da319af5133c4cac86a002442e8cdd": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/asciidoc/python-wordpress-xmlrpc": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:6ff087095526942ae52f4dbd58aa1697": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:6ff087095526942ae52f4dbd58aa1697": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/asciidoc/python-wordpress-xmlrpc": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/usr/lib/python3.11/site-packages/pylint/lint": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:301ea5d23df43b73ead4a3028c8d9f28": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:301ea5d23df43b73ead4a3028c8d9f28": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/usr/lib/python3.11/site-packages/pylint/lint": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/asciidoc/asc2wp-Asciidoc-to-Wordpress-python3/asc2wp": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:fdd76de75da678f0e319f87ebfcfc672": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fdd76de75da678f0e319f87ebfcfc672": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/asciidoc/pythonsed-2.1.post0/src/PythonSed": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:493ecf7e1babef1815b27453f826e621": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:493ecf7e1babef1815b27453f826e621": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/asciidoc/pythonsed-2.1.post0/src/PythonSed": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/asciidoc/pythonsed-2.1.post0/src": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:919ca99822390631b78d2190c45ae4e9": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:919ca99822390631b78d2190c45ae4e9": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/asciidoc/pythonsed-2.1.post0/src": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/data/data/com.termux/files/home/projects/python/teststringio": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:785b920c97bfc138ed8524beacbd75d6": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:785b920c97bfc138ed8524beacbd75d6": [],
+    "autoSelectedWorkspacePythonInterpreter-/data/data/com.termux/files/home/projects/python/teststringio": {
+      "architecture": 3,
+      "path": "/data/data/com.termux/files/usr/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.6-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.6-final"
+      },
+      "sysPrefix": "/data/data/com.termux/files/usr",
+      "fileHash": "52687ac03dc9e43ccf6af358990021a3ff8856114e33cce497347b61a8e0610a17045bc649679acc2ee52b70adb6e4fcc20c6f539af76a22e017540340e69b4f",
+      "type": "Unknown",
+      "displayName": "Python 3.11.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-json|global": {
+    "json-schema-cache": {
+      "https://on.cypress.io/cypress.schema.json": {
+        "etag": "W/\"3d2c2c8416e9473f457e711d71a3ab2d97a8aab20ef5f798f291fa025d0dbbe9\"",
+        "fileName": "dcc246629c0566c9b67801a88e84d703.schema.json",
+        "updateTime": 1699098738371
+      }
+    }
+  }
+}
